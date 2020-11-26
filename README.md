@@ -17,3 +17,5 @@ Support:
 https://mdbootstrap.com/forums/forum/support/
 Contact:
 office@mdbootstrap.com
+
+https://www.shapedivider.app/
